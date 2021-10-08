@@ -1,6 +1,6 @@
 ![CICD Release Pipeline](https://github.com/holgerimbery/123Collab/actions/workflows/main.yml/badge.svg)
 
-# 123Code
+# 123Collab
 [Microsoft Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=holgerimbery.123collab)
 
 > **_NOTE:_**  It is **strongly recommended** that you use the [Insiders Edition of Visual Studio Code](https://code.visualstudio.com/insiders/), which is updated daily, and includes the latest and most up-to-date features.
