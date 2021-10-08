@@ -5,7 +5,7 @@
 
 > **_NOTE:_**  It is **strongly recommended** that you use the [Insiders Edition of Visual Studio Code](https://code.visualstudio.com/insiders/), which is updated daily, and includes the latest and most up-to-date features.
 
-_123Collab_ is a curated set of VS Code extensions for **collaborating**.
+_123Collab_ is a curated set of VS Code extensions for **collaborating** on code.
 
 
 ## Elements of the extension pack
