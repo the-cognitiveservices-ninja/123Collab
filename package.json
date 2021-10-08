@@ -2,7 +2,7 @@
     "name": "123collab",
     "displayName": "123Collab",
     "publisher": "holgerimbery",
-    "description": "a extension pack to support collaborating on code",
+    "description": "an extension pack to support collaborating on code",
     "icon": "assets/logo256x256.png",
     "version": "0.0.0",
     "repository": {
