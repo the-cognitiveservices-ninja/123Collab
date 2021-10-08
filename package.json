@@ -1,0 +1,22 @@
+{
+    "name": "123collab",
+    "displayName": "123Collab",
+    "publisher": "holgerimbery",
+    "description": "a extension pack to support collaborating on code",
+    "icon": "assets/logo256x256.png",
+    "version": "0.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/holgerimbery/123Collab"},
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-vsliveshare.vsliveshare-pack",
+        "lostintangent.vsls-whiteboard",
+        "vsls-contrib.gistfs"
+    ]
+}
