@@ -1,4 +1,4 @@
-![CICD Release Pipeline](https://github.com/holgerimbery/123Collab/actions/workflows/main.yml/badge.svg)
+![CICD Release Pipeline](https://github.com/the-cognitiveservices-ninja/123Collab/actions/workflows/main.yml/badge.svg)
 
 # 123Collab
 [Microsoft Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=holgerimbery.123collab)
