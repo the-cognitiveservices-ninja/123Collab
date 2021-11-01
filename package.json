@@ -7,7 +7,7 @@
     "version": "0.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/holgerimbery/123Collab"},
+        "url": "https://github.com/the-cognitiveservices-ninja/123Collab"},
     "engines": {
         "vscode": "^1.56.0"
     },
